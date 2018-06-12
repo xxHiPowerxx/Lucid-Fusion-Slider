@@ -152,14 +152,14 @@ $(document).ready(function(){
 		console.log('reset');
 		window.clearInterval(begin);
 	}
-/*	
+	
 	startTimer();
-	$('.slider_arrow').on('mouseenter', function(){
+	$('.slider_arrow, .dot').on('mouseenter', function(){
 		stopTimer();
 	}).on('mouseleave', function(){
 		startTimer();
 	});
-*/
+
 
 
 });
