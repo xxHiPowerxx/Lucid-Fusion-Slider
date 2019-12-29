@@ -267,13 +267,14 @@ h3.headline {
   display: block;
 }
 
-#slide_1, .dot[data-slide-tar="1"] {
-  background-image: url(http://insideevs.com/wp-content/uploads/2016/12/020a12_b9d33fd444944334ad1085cd2f08d77cmv2_d_4800_1742_s_2.jpg);
-  background-position: 56% 0%;
+#slide_1,
+.dot[data-slide-tar="1"] {
+  background-image: url(../images/chess-game-chessboard-glass-51930.jpg);
+  background-position: 50% 50%;
 }
 
 #slide_1 {
-  color: rgb(68, 58, 56);
+  color: rgb(255, 255, 255);
   text-shadow: 0 0 2px rgba(255, 255, 255, 0.43), 0 0 1px rgba(255, 255, 255, 0.23);
   .slide_content {
     margin-top: -25vh;
@@ -323,11 +324,11 @@ h3.headline {
     background-color: rgb(222, 204, 90);
     color: white;
   }
-  background-image: url(https://k35.kn3.net/taringa/8/4/4/4/1/1/4/andrespink/AED.jpg);
+  background-image: url(../images/AED.jpg);
 }
 
 .dot[data-slide-tar="2"] {
-  background-image: url(https://k35.kn3.net/taringa/8/4/4/4/1/1/4/andrespink/AED.jpg);
+  background-image: url(../images/AED.jpg);
 }
 
 #slide_2 {
@@ -344,7 +345,7 @@ h3.headline {
 }
 
 #slide_3, .dot[data-slide-tar="3"] {
-  background-image: url(https://i.pinimg.com/originals/23/39/65/233965ed8544585983bdaff3f30ea5fd.jpg);
+  background-image: url(../images/233965ed8544585983bdaff3f30ea5fd.jpg);
 }
 
 #slide_3 {
